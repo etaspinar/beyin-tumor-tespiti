@@ -11,7 +11,11 @@ Veri seti ve kodların detaylı açıklamaları, Kaggle notebook hücrelerinde m
 
 ## Model Sonuçları
 
-### MobileNet V1
+### MobileNet V1 görsel linki : https://github.com/etaspinar/beyin-tumor-tespiti/tree/main/MobileNet-v1
+### MobileNet V2 görsel linki : https://github.com/etaspinar/beyin-tumor-tespiti/tree/main/MobileNet-v2
+### MobileNet fine-tune görsel linki : https://github.com/etaspinar/beyin-tumor-tespiti/tree/main/MobileNet-%20fine-tune
+### ResNet50 fine-tune görsel linki : https://github.com/etaspinar/beyin-tumor-tespiti/tree/main/ResNet50%20fine-tune
+### EfficientNetB0 fine-tune görsel linki :https://github.com/etaspinar/beyin-tumor-tespiti/tree/main/EfficientNetB0%20fine-tune
 
 
 ## Sonuç ve Gelecek Çalışmalar
